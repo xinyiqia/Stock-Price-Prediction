@@ -8,9 +8,9 @@ Project Objective:
 Using historical performance of the stock return to predict future stock performance and how the factors/ratios from company’s financial report could explain the future trend of the stock performance.
 
 Use of Analytical Techniques:
-Forecast models: Timeseries ARIMA Model
-Predictive models: SVM Model 
-R Dashboard: flexdashboard and shiny package.
+1. Forecast models: Timeseries ARIMA Model
+2. Predictive models: SVM Model 
+3. R Dashboard: flexdashboard and shiny package.
 
 Files uploaded:
 1. copy of the data used (dat.daily.rds).
